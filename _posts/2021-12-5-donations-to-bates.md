@@ -12,7 +12,7 @@ This data was collected manually from Bates' Archives. This data includes the do
 
 ## Overall Donations Trends
 <!-- ![Dataframe](/assets/batesdonations/Total_Donations_vs_CLass_Year.jpeg) -->
-<img src="/assets/batesdonations/Total_Donations_vs_CLass_Year.jpeg" alt="" width="500" height="500"/>
+<img src="/assets/batesdonations/Total_Donations_vs_Class_Year.jpeg" alt="" width="500" height="500"/>
 <!-- ![Dataframe](/assets/batesdonations/Inflation_Adjusted_Donation.jpeg) -->
 <img src="/assets/batesdonations/Inflation_Adjusted_Donation.jpeg" alt="" width="500" height="500"/>
 
