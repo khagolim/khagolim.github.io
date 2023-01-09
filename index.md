@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-This is my website description.
+I am a prospective programmer and I want to work in Video Game Development.

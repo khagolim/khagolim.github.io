@@ -1,16 +1,16 @@
 # site settings
 title: Khagolim
-subtitle: N/A
+subtitle: Profile
 email: khagolimnegi@gmail.com
-description: A portfolio website.
+description: A website portraying all of the interesting studies I have done in Data science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+# street_address: 1234 Somewhere Road
+# city: Nashville
+# state: TN
+# zip_code: 55555
+# country: United States of America
 phone: (857) 867 9838
 
 # homepage tiles
